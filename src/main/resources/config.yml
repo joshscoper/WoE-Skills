@@ -1,0 +1,8 @@
+leveling:
+  enabled: true
+  max_level: 100
+  exp_file: "exp_curve.yml" #make sure this file exists, or it will break the plugin#
+jobs:
+  enabled: true
+skills:
+  enabled: true

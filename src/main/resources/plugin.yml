@@ -1,0 +1,4 @@
+name: WoE_Skills
+version: '${project.version}'
+main: com.warofetir.woeskills.WoE_Skills
+api-version: 1.19
